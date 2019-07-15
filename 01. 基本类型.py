@@ -17,6 +17,7 @@ bool({'a': 1})  # True
 bool('')  # False
 bool(None)  # False
 
+
 # complex 复数
 
 # str 字符串
